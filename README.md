@@ -11,9 +11,10 @@ This application takes in information about employees on a software engineering 
 
 ## Demo video
 
-[![Watch the video](https://watch.screencastify.com)]
+[![Watch the video](https://watch.screencastify.com/v/vStn9RCoqWpeMxQx0om8)]
 
 ## Screenshot
+
 ![screenshot of My Team Generator](.//src/Screenshot_My_Team.png "Screenshot of the App")
 
 ## Link to Repo
