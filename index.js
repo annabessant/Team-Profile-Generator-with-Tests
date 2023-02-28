@@ -9,7 +9,7 @@ const OUTPUT_DIR = path.resolve(__dirname, "output");
 const outputPath = path.join(OUTPUT_DIR, "team.html");
 
 const render = require("./src/page-template.js");
-const generateHTML = require(`./src/generateHTML`);
+//const generateHTML = require(`./generateHTML`);
 let answersArr = [];
 
 
@@ -142,6 +142,6 @@ init();
 
 // new members
 function generateTeam() {
-    fs.writeFileSync(`./dist/generatedTeam.html`, generateHTML(answersArr), "utf-8");
+    fs.writeFileSync(`./src/output/team.html`, render(answersArr), "utf-8");
     console.log('My Team')
 };
