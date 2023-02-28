@@ -11,7 +11,7 @@ This application takes in information about employees on a software engineering 
 
 ## Demo video
 
-[![Watch the video](https://watch.screencastify.com/v/vStn9RCoqWpeMxQx0om8)]
+[![Watch the video](https://watch.screencastify.com/v/vStn9RCoqWpeMxQx0om8]
 
 ## Screenshot
 
